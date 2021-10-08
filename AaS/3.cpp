@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Method to replace all spaces in a string with '%20'
+
 int main(int argc, char * argv[]){
 
     string str1 = "Mr John Smith    ";

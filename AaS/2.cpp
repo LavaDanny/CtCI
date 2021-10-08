@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// Given 2 strings, write a method to decide if one is a permutation of the other
+
 int main(int argc, char * argv[]){
     string str1 = argv[1]; 
     string str2 = argv[2];

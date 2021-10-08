@@ -4,6 +4,8 @@
 #include <algorithm>
 using namespace std;
 
+// Determine if string has all unique characters
+
 int main(int argc, char * argv[])
 {
     vector<char> vec;
